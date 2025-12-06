@@ -1,4 +1,5 @@
-﻿namespace BirinchiModul;
+﻿namespace homework1
+     ;
 
 class Program
 {
